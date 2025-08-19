@@ -3,4 +3,4 @@
 main.py 
 pyproject.toml
 uv.lock
-Clasificador de Sentimientos de Tweets/data/training.1600000.processed.noemoticon.csv
+training.1600000.processed.noemoticon.csv
