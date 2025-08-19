@@ -3,3 +3,4 @@
 main.py 
 pyproject.toml
 uv.lock
+training.1600000.processed.noemoticon.csv
